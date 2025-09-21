@@ -38,13 +38,3 @@ This project is an AI Agent that predicts whether a patient is diabetic or not b
 2. Open the Jupyter Notebook `Data_Analysis_Project.ipynb`.
 3. Run all cells.
 4. Enter patient details to get predictions.
-
-## Repository Structure
-ai-data-analyst-agent/
-├── data/
-│ └── diabetes.csv
-├── notebooks/
-│ └── Data_Analysis_Project.ipynb
-├── venv/
-├── README.md
-└── requirements.txt
